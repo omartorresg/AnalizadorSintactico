@@ -4,14 +4,14 @@ Aplicación gráfica interactiva desarrollada en **Java Swing** que implementa u
 
 ---
 
-## 📌 Cumplimiento de Requisitos
+## Cumplimiento de Requisitos
 - [x] **Aplicación Gráfica (GUI)**: Desarrollada con Java Swing (`JFrame`), sin uso de entrada/salida por consola.
 - [x] **Código Fuente y Ejecutable**: Incluye código fuente `.java`, ejecutable empaquetado `.jar` y ejecutable directo `.bat`.
 - [x] **Documentación del Lenguaje**: Especificación formal BNF y casos de prueba detallados.
 
 ---
 
-## 📐 Documentación del Lenguaje y Gramática (BNF)
+## Documentación del Lenguaje y Gramática (BNF)
 
 El mini-lenguaje soporta declaraciones de asignación y expresiones aritméticas respetando la jerarquía de operadores y paréntesis:
 
